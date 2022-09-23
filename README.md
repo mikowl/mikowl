@@ -4,7 +4,7 @@ Hi 👋 My name is Michael Elias
 Full stack web developer
 ------------------------
 
-I've been building things on the interwebs for over 15 years. I have experience with a large \[array\] of technologies old and new but currently prefer building with modern stacks similar to the \[T3\](https://github.com/t3-oss/create-t3-app) stack (Next.js/tRPC/Tailwind/TypeScript/Prisma\].
+I've been building things on the interwebs for over 15 years. I have experience with a large \[array\] of technologies old and new but currently prefer building with modern stacks similar to the [T3](https://github.com/t3-oss/create-t3-app) stack (Next.js/tRPC/Tailwind/TypeScript/Prisma\].
 
 *   🌍  I'm based in California
 *   ✉️  You can contact me at [michael@mikowl.com](mailto:michael@mikowl.com)
