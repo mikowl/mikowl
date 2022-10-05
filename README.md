@@ -38,6 +38,7 @@ src="https://img.shields.io/github/followers/mikowl?logo=github&style=for-the-ba
 <p align="left"> <a href="https://www.github.com/mikowl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/michael-elias-047b2578/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mikowl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
+[![@mikowl's Holopin board](https://holopin.io/api/user/board?user=mikowl)](https://holopin.io/@mikowl)
 
 <b>My GitHub Stats</b>
 
