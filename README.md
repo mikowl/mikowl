@@ -35,6 +35,9 @@ src="https://img.shields.io/github/followers/mikowl?logo=github&style=for-the-ba
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Dev tools
+Currently switching between VSCode (with Vim extension) and <a href="https://github.com/LunarVim/LunarVim" target="_blank">LunarVim</a>. I use <a href="https://github.com/kovidgoyal/kitty" target="_blank">kitty</a> for my terminal with <a href="https://github.com/ohmyzsh/ohmyzsh" target="_blank">ohmyzsh</a>. Also couldn't survive without <a href="https://orgmode.org/" target="_blank">orgmode</a> for note taking and to organize my brain.
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/mikowl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/michael-elias-047b2578/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mikowl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
