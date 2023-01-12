@@ -8,7 +8,7 @@ I've been building things on the interwebs for over 15 years. I have experience 
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [michael@mikowl.com](mailto:michael@mikowl.com)
-* 🧠  I'm learning TypeScript, Next.js, tRPC
+* 🧠  I'm currently fine tuning knowledge in TypeScript, Next.js, tRPC
 
 <a href="https://www.twitter.com/mikowl" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mikowl?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"
