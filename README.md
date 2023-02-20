@@ -45,6 +45,8 @@ Currently switching between VSCode (with Vim extension) and <a href="https://git
 ### Badges
 [![@mikowl's Holopin board](https://holopin.io/api/user/board?user=mikowl)](https://holopin.io/@mikowl)
 
+<a href="https://courses.joshwcomeau.com/certificate/63f2a1c158d41c9ead17865b" target="_blank"><img src="https://user-images.githubusercontent.com/1934329/220208252-4625dc6e-04b8-4092-b8f7-4a917df1b897.png" alt="Joy of React Certificate of Completion"></a>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/mikowl"><img src="https://my-readme-stats-seven.vercel.app/api?username=mikowl&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="mikowl's GitHub stats" /></a>
