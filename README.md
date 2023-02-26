@@ -50,7 +50,8 @@ Currently switching between VSCode (with Vim extension) and <a href="https://git
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mikowl"><img src="https://my-readme-stats-seven.vercel.app/api?username=mikowl&hide_border=true&show_icons=true&hide=contribs,issues&theme=tokyonight" alt="mikowl's GitHub stats" /></a>
+<a href="http://www.github.com/mikowl"><img align="center" src="https://my-readme-stats-seven.vercel.app/api?username=mikowl&hide_border=true&show_icons=true&hide=contribs,issues&theme=tokyonight" alt="mikowl's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikowl&hide_progress=false&theme=tokynonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="http://www.github.com/mikowl"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikowl&hide_progress=true&theme=tokyonight" alt="mikowl's language stats" /></a>
+
 
