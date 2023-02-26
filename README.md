@@ -50,4 +50,4 @@ Currently switching between VSCode (with Vim extension) and <a href="https://git
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mikowl"><img src="https://my-readme-stats-seven.vercel.app/api?username=mikowl&show_icons=true&hide=contribs&count_private=false&hide_border=true&show_icons=true?theme=tokyonight" alt="mikowl's GitHub stats" /></a>
+<a href="http://www.github.com/mikowl"><img src="https://my-readme-stats-seven.vercel.app/api?username=mikowl&hide_border=true&show_icons=true&theme=tokyonight" alt="mikowl's GitHub stats" /></a>
