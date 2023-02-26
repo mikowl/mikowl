@@ -45,12 +45,16 @@ Currently switching between VSCode (with Vim extension) and <a href="https://git
 ### Badges
 [![@mikowl's Holopin board](https://holopin.io/api/user/board?user=mikowl)](https://holopin.io/@mikowl)
 
-### Joy of React Certificate
-<a href="https://courses.joshwcomeau.com/certificate/63f2a1c158d41c9ead17865b" target="_blank"><img src="https://user-images.githubusercontent.com/1934329/220208252-4625dc6e-04b8-4092-b8f7-4a917df1b897.png" width="300" alt="Joy of React Certificate of Completion"></a>
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/mikowl"><img align="center" width="460" src="https://my-readme-stats-seven.vercel.app/api?username=mikowl&hide_border=true&show_icons=true&hide=contribs,issues&theme=tokyonight" alt="mikowl's GitHub stats" /></a>
 <a href="http://www.github.com/mikowl"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikowl&hide_border=true&hide_progress=true&theme=tokyonight" alt="mikowl's language stats" /></a>
+
+### Misc
+
+#### Joy of React Certificate
+<a href="https://courses.joshwcomeau.com/certificate/63f2a1c158d41c9ead17865b" align="center" target="_blank"><img src="https://user-images.githubusercontent.com/1934329/220208252-4625dc6e-04b8-4092-b8f7-4a917df1b897.png" width="250" alt="Joy of React Certificate of Completion"></a>
+
+
 
 
